@@ -17,7 +17,7 @@ Use it directly via CDN (no installation required):
 <script src="https://cdn.jsdelivr.net/gh/Spiddyyy/counter-scroll@latest/scroll-counter.min.js"></script>
 
 
-
+```html markup
 <span class="counter-value"
       data-count="1000"
       data-prefix="+"
