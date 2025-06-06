@@ -26,3 +26,18 @@ Use it directly via CDN (no installation required):
       data-easing="easeOut">0</span>
 
 
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    new ScrollCounter('.counter-value', {
+      duration: 3000,
+      easing: 'easeInOut',
+      once: false,
+      replay: true,
+      prefix: '',
+      suffix: '',
+      onComplete: (el) => {
+        console.log('Done:', el);
+      }
+    });
+  });
+</script>
