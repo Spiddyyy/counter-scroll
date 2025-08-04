@@ -23,7 +23,7 @@ A powerful, lightweight, and highly customizable JavaScript library for animated
 
 ### CDN (Quick Start)
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Spiddyyy/counter-scroll@latest/scroll-counter.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Spiddyyy/counter-scroll@1.0.0v/scroll-counter.min.js"></script>
 ```
 
 ### NPM
@@ -338,7 +338,7 @@ For immediate use without installation:
     <div class="counter-value" data-count="99" data-suffix="%">0%</div>
     
     <!-- Include library -->
-    <script src="https://cdn.jsdelivr.net/gh/Spiddyyy/counter-scroll@latest/scroll-counter.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Spiddyyy/counter-scroll@1.0.0v/scroll-counter.min.js"></script>
     
     <!-- Initialize -->
     <script>
