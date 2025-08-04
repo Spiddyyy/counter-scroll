@@ -1,6 +1,10 @@
 # ScrollCounter ✨
+## Live Demo
+Check out the live site: [https://spiddyyy.github.io/counter-scroll/](https://spiddyyy.github.io/counter-scroll/)
+
 
 A powerful, lightweight, and highly customizable JavaScript library for animated scroll counters. Perfect for showcasing statistics, metrics, and numbers with smooth scroll-triggered animations.
+
 
 ## 🚀 Features
 
