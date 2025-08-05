@@ -1,5 +1,6 @@
 # ScrollCounter ✨
-
+ ![Open Source](https://badgen.net/badge/open-source/yes/green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Live Demo
 Check out the live site: [https://spiddyyy.github.io/counter-scroll/](https://spiddyyy.github.io/counter-scroll/)
@@ -21,8 +22,7 @@ A powerful, lightweight, and highly customizable JavaScript library for animated
 - **📦 Zero dependencies** - Pure vanilla JavaScript
 - **🌐 Universal support** - Works with all module systems (ES6, CommonJS, AMD, Global)
 
-  ![Open Source](https://badgen.net/badge/open-source/yes/green)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+ 
 
 ## 📦 Installation
 
