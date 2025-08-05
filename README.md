@@ -1,4 +1,6 @@
 # ScrollCounter ✨
+
+
 ## Live Demo
 Check out the live site: [https://spiddyyy.github.io/counter-scroll/](https://spiddyyy.github.io/counter-scroll/)
 
@@ -384,5 +386,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ for the developer community
 
 [Demo](https://scrollcounter.dev/demo) • [Documentation](https://scrollcounter.dev/docs) • [GitHub](https://github.com/your-username/scrollcounter)
+
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
 
 </div>
